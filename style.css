@@ -1,0 +1,24 @@
+*{
+	font-family: 'Roboto', sans-serif !important;
+
+}
+.allblue{
+	color: #4ba3ff; font-size: 20px;
+}
+
+
+  @media (min-width: 320px) and (max-width: 480px){
+  .m_right{
+	background-color: #343a40!important;
+	color: white !important;
+	padding: 0 15px !important;
+}
+.m_mobHeading{
+	background: white;
+    color: #343a40;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+  }
